@@ -1,0 +1,8 @@
+requests
+fake_useragent
+colorama
+fade
+uuid
+fake_useragent
+py-socket
+keyboard
