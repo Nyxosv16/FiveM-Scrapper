@@ -7,11 +7,11 @@ __SETUP:__
 
 __Support:__  
 
-dev: nyxos  
-discord: nyxosv19  
-signal: nyxos.77  
-[link discord](https://discord.gg/mxeYvVydz6)  
-
+Dev: nyxos  
+Discord: nyxosv19  
+Signal: nyxos.77  
+Link discord: https://discord.gg/mxeYvVydz6  
+  
 # scrapper-fivem  
 Scrapper DB FiveM  
 
